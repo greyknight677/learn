@@ -1,1 +1,22 @@
+body{
+    background-color: blue;
+    color: whitesmoke;
+    background-image: url('./wave.jpeg');
+    background-size:
+    cover;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    font-family: fantasy;
+}
+li{
+
+}
+div{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
 
